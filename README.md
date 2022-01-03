@@ -32,6 +32,7 @@ Features: text
 
 ## Activity
 I have built a Multinomial Naive Bayes based on this dataset which can be used to classify new sentences in to these subgroups.
+The 'multinomial_naive_bayes.ipynb' file can be used to load the data, train the model and to classify new text.
 
 ## Reference:
 http://qwone.com/~jason/20Newsgroups/ <br>
